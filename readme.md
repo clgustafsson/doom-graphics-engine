@@ -4,6 +4,7 @@
 
 - Doom graphics engine with walls and sectors
 - Moveable camera
+- Supported on MacOS and Linux
 
 ## How to run
 
